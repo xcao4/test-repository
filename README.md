@@ -1,1 +1,1 @@
-This repository is for  AWS Java Developer project
+This repository is for Practicing  AWS Java Developer project
